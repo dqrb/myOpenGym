@@ -28,7 +28,7 @@
     "lean-qr": "^2.7.4",
     "react": "^19.3.1",
     "react-dom": "^19.3.1",
-    "react-router-dom": "^7.18.4",
+    "react-router-dom": "^7.18.5",
     "zustand": "^5.0.15"
   },
   "devDependencies": {
@@ -39,7 +39,7 @@
     "@vitest/coverage-v8": "^4.1.12",
     "fast-check": "^4.10.2",
     "happy-dom": "^20.14.6",
-    "linkedom": "^0.18.13",
+    "linkedom": "^0.18.14",
     "vite": "^8.3.4",
     "vitest": "^4.1.12"
   }
